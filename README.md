@@ -1,4 +1,4 @@
-![screenshot](https://github.com/Adv3ntur3rz/Ableton-Homepage/blob/main/ss/final_1.jpg)
+![screenshot](https://github.com/Adv3ntur3rz/Ripples/blob/main/ripples.jpg)
 # Ripples
  An interactive audiovisual website created using p5.js and the p5.js sound library
 
